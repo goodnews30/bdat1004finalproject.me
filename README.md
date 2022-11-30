@@ -1,1 +1,1 @@
-# goodnews30.github.io
+# http://bdat1004finalproject.me
